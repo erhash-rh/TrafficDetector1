@@ -9,6 +9,9 @@ inference.py
 
 The model was trained on the Google Open Images dataset for the respective classes. 
 
-The network architecture can be inspected in model.py.
+The network architecture can be inspected in:
+```Python
+model.py
+```
 
 The tracker implements a variation of the Hungarian algorithm.
